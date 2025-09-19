@@ -4,7 +4,7 @@ audio.offload.min.duration.secs=30
 # Bluetooth
 bluetooth.profile.a2dp.source.enabled=true
 bluetooth.profile.asha.central.enabled=true
-bluetooth.profile.avrcp.controller.enabled=false
+bluetooth.profile.avrcp.controller.enabled=true
 bluetooth.profile.avrcp.target.enabled=true
 bluetooth.profile.bap.broadcast.assist.enabled=false
 bluetooth.profile.bap.broadcast.source.enabled=false
